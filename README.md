@@ -1,7 +1,5 @@
 # Cat_Dog-and-others-image-classification
-As part of Wisesight interview assignment
-
-The data is too big to be download here
+The data is too large to be download here
 
 Cat Dog Image Classification 
 
